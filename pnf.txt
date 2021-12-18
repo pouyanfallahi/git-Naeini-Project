@@ -1,7 +1,7 @@
 78 + 51 = 129
 edited
-
-4 * 5 = 20
+14 * 5 = 20
+1.2
 
 yes i have been coding about 5 hours
 
