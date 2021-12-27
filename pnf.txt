@@ -2,7 +2,7 @@
 edited edited * 2
 14 * 5 = 60
 1.2
-
+resault.x
 (yes i have been coding about 5 hours
 this blong to previous exercise)
 
