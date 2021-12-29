@@ -1,5 +1,5 @@
-line 1 = math solutions 
-line 2 = physics solutions
+line 1 = math solutions(fixed bug) 
+line 2 = physics solutions(changed)
 line 3 = computer(AI)
 line 4 = bilogy
 line 5 = running
