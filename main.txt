@@ -1,2 +1,4 @@
 this is a text editor.
 changed.
+this should have been more:
+docker . python . django . front end (html . css . JS)
