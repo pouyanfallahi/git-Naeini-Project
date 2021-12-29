@@ -4,3 +4,5 @@ this should have been more:
 docker . python . django . front end (html . css . JS)
 should make some changes.
 if you think outstanding, you'll become a massive programmer.
+--------------------------------------------------------------
+math area : 1 + 2 + 3 + 4 + 5 = 15
