@@ -2,4 +2,6 @@ line 1 = math solutions
 line 2 = physics solutions
 line 3 = computer(AI)
 line 4 = bilogy
+line 5 = running
+line 6 = sports
 
